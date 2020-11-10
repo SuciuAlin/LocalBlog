@@ -1,6 +1,8 @@
 # LocalBlog
 
-Application for sharing your blog ideas and post with yourself before going to do it with anyone else.
+Application for sharing your blog ideas and post with yourself before going to do it with anyone else. 
+
+Also great for marking daily tasks if you want them in a private place with or without a image to keep you wanting to finish it just to press the delete button and know you are done with it.
 
 # Dependencies
 Nodejs
@@ -12,7 +14,7 @@ MongoDB
 1. Run the app using nodejs
     in command line at the location of the app the code will be:
     ```js
-    nodejs app.js
+    node app.js
     ```
 2. Open 
 ```localhost:3000``` on browser
